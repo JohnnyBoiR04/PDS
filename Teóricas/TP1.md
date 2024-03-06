@@ -16,10 +16,10 @@
 - Interface Segregation 
     - instead of one large interface, multiple specific interfaces are better suited for different clients
 - Dependency Inversion 
-    - a high-level module should not be dependent upon a low-level module, instead of a high module depeding on a low one, they both depend on abstractions
+    - a high-level module should not be dependent upon a low-level module. instead of a high module depeding on a low one, they both will depend on abstractions
 
 ### Dry
-- Don't repeat yourself :)
+- Don't repeat yourself
 
 ### Boy Scout Rule
 - Always leave code better than you found it 
@@ -49,6 +49,8 @@ Fewer arguments the better
 
 ## Comments
 Explain yourself through code, no need to use coments
+
+it's the best worst case scenario
 
 ## Classes
 Classes should be small and should only have one, and only one reason to change
