@@ -57,7 +57,7 @@
 
 ### Characteristics of a Bad Design
 - Rigidity:
-    - Hard to chanfe because every change affects too many other parts;
+    - Hard to change because every change affects too many other parts;
 - Fragility:
     - When we make a change everything breaks;
 - Immobility:
